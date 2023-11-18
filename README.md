@@ -8,6 +8,7 @@ It's a holistic journey that transforms participants into proficient problem sol
 and resilient individuals prepared to navigate the dynamic landscape of programming with continuous improvement and determination.
 # THE ROADMAP
  A well-structured roadmap can guide you from foundational concepts to advanced problem-solving skills. Here's a suggested roadmap:
+ # Pick one programming languages (Choose a programming language that is more comfortable for you.)
 
 ### **Beginner Level: Building Foundations**
 
